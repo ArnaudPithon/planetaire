@@ -1,0 +1,48 @@
+/* Style sheet for The Nine Planets */
+
+span.bbi  {
+ 	font-size : 120%;
+ 	font-weight : bold;
+ 	font-style : italic;
+}
+div.ads  {
+ 	float : right;
+ 	width : 120px;
+ 	padding-left : 10px;
+}
+div.hc  {
+ 	width : 120px;
+ 	background-color : #cccccc;
+ 	font-size : smaller;
+ 	padding : 2px;
+}
+div.sb  {
+ 	width : 120px;
+ 	border-style : solid;
+ 	padding-left : 2px;
+ 	border-width : thin thin thick;
+ 	border-color : #ccc;
+}
+div.top  {
+ 	background : black;
+ 	text-align : center;
+ 	color : #ccc;
+ 	border-width : 4px;
+ 	border-style : ridge;
+}
+a.sb  {
+ 	font-weight : bold;
+ 	color : black;
+}
+p.plain {
+	text-indent : 0;
+}
+p  {
+	text-indent : 1em;
+}
+//p:first-letter {
+//	font-size: 200%;
+//}
+//p.plain:first-letter {
+//	font-size: 100%;
+//}
