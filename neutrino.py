@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # -*- coding: iso_8859-15 -*-
 
 from OpenGL.GL import *
